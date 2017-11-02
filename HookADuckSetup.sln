@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "HookADuckSetup", "HookADuckSetup\HookADuckSetup.vdproj", "{868520F6-1E64-4B53-8121-C0E8D3C00C8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{868520F6-1E64-4B53-8121-C0E8D3C00C8E}.Debug|Default.ActiveCfg = Debug
+		{868520F6-1E64-4B53-8121-C0E8D3C00C8E}.Debug|Default.Build.0 = Debug
+		{868520F6-1E64-4B53-8121-C0E8D3C00C8E}.Release|Default.ActiveCfg = Release
+		{868520F6-1E64-4B53-8121-C0E8D3C00C8E}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C462078-C3A2-4233-B638-25F59512FF07}
+	EndGlobalSection
+EndGlobal
